@@ -8,4 +8,16 @@ const Card = () => {
     );
 };
 
+const styles = {
+
+    containerStyle: {
+        borderWidth: 1,
+        borderRadius: 2,
+        borderColor: '#ddd',
+        borderBottomWidth: 0,
+        shadowColor: '#000',
+        
+    }
+}
+
 export default Card;

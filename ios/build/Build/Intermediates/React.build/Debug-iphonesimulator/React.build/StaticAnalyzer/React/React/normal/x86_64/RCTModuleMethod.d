@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/midhetsulemani/Documents/projects/AlbumsReact/node_modules/react-native/React/Base/RCTUtils.h

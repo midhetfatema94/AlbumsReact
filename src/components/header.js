@@ -1,6 +1,7 @@
 //Step 1: Import libraries
 import React from 'react';
-import {Text, AppRegistry, View} from 'react-native';
+import { Text, AppRegistry, View } from 'react-native';
+
 //Step 2: Make component
 const Header = (props) => {
     const { textStyle, viewStyle } = styles;
@@ -10,6 +11,7 @@ const Header = (props) => {
         </View>
     );
 };
+
 const styles = {
     viewStyle: {
         backgroundColor: '#F8F8F8',
